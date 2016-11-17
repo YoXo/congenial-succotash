@@ -26,9 +26,4 @@ public class MessageFilterBean {
 	public void setSize(int size) {
 		this.size = size;
 	}
-	 
-	 
-	 
-	
-	
 }
